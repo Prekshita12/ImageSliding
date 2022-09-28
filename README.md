@@ -1,2 +1,2 @@
 # ImageSliding
-Sliding a image using only css
+Sliding a image using only Html Css
